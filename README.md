@@ -10,11 +10,11 @@ My prediction is that one day there may be a tokenized version of Bitcoin runnin
 
 As the Cardano blockchain gains widespread popularity and economies of scale it
 too will encompass Bitcoin and may other cryptocurrencies -- allowing cBTC to be
-allowing BTC to be fully integrated into Cardano ecosystem of decentralized
-exchanges, staking and lending services, prediction markets and other
-Cardano-enabled decentralized finance (DeFi) applications.
+fully integrated into Cardano ecosystem of decentralized exchanges, staking and
+lending services, prediction markets and other Cardano-enabled decentralized 
+finance (DeFi) applications.
 
-Wishful thinking, but my prediction is that one day Bitcoin will run on top of
+My prediction is that one day Bitcoin or a variant thereof will run on top of 
 the Cardano blockchain.
 
 ---
