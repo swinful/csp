@@ -1,4 +1,5 @@
 # Cardano Stake Pools (CSP)
+
 ---
 
 ## About
@@ -13,8 +14,9 @@ allowing BTC to be fully integrated into Cardano ecosystem of decentralized
 exchanges, staking and lending services, prediction markets and other
 Cardano-enabled decentralized finance (DeFi) applications.
 
+Wishful thinking, but my prediction is that one day Bitcoin will run on top of
+the Cardano blockchain.
 
-Wishful thinking, but my prediction is that one day Bitcoin will run on top of the Cardano blockchain.
 ---
 
 ### Well-Rounded Stake Pool (WRSP)
