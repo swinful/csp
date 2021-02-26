@@ -14,7 +14,7 @@ fully integrated into Cardano ecosystem of decentralized exchanges, staking and
 lending services, prediction markets and other Cardano-enabled decentralized 
 finance (DeFi) applications.
 
-My prediction is that one day Bitcoin or a variant thereof will run on top of 
+As stated, our prediction is that one day Bitcoin or a variant thereof will run on top of 
 the Cardano blockchain.
 
 ---
