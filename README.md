@@ -6,7 +6,7 @@
 A repository to store metadata files for managed cardano stake pools.
 
 ### Cardano Bitcoin Stake Pool (CBTC)
-My prediction is that one day there may be a tokenized version of Bitcoin running on the Cardano blockchain (cBTC). We have this now with Ethereum. Have you heard of wBTC? This is tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain.
+Our prediction is that one day there may be a tokenized version of Bitcoin running on the Cardano blockchain (cBTC). We have this now with Ethereum. Have you heard of wBTC? This is tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain.
 
 As the Cardano blockchain gains widespread popularity and economies of scale it
 too will encompass Bitcoin and may other cryptocurrencies -- allowing cBTC to be
