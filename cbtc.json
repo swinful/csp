@@ -1,6 +1,6 @@
 {
-  "name": "Cardano BTC (cBTC) Pool",
-  "description": "Cardano Bitcoin (cBTC) Stake Pool.",
+  "name": "Cardano BTC Pool",
+  "description": "Cardano BTC Stake Pool.",
   "ticker": "cBTC",
   "homepage": "http://www.cardanobtc.com"
 }
