@@ -1,6 +1,6 @@
 {
   "name": "FreeBSD Stake Pool",
-  "description": "A stake pool running a mix of Ubuntu & FreeBSD -- Built for secure decentralization.",
+  "description": "Cardano stake pool to promote the use of FreeBSD and further aid decentralization of Cardano blockchain.",
   "ticker": "FBSD",
   "homepage": "http://fbsdsp.winful.com"
 }
