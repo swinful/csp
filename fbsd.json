@@ -2,6 +2,6 @@
   "name": "The FreeBSD Stake Pool",
   "description": "Stake pool to promote the use of FreeBSD and further aid decentralization of Cardano blockchain.",
   "ticker": "FBSD",
-  "homepage": ""
+  "homepage": "",
   "verify": "e8ee3efd6997f88509d53e779bb9ab95"
 }
