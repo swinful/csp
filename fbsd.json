@@ -1,6 +1,6 @@
 {
-  "name": "FreeBSD Stake Pool",
-  "description": "Cardano stake pool to promote the use of FreeBSD and further aid decentralization of Cardano blockchain.",
+  "name": "The FreeBSD Stake Pool",
+  "description": "Stake pool to promote the use of FreeBSD and further aid decentralization of Cardano blockchain.",
   "ticker": "FBSD",
-  "homepage": "http://fbsdsp.winful.com"
+  "homepage": ""
 }
