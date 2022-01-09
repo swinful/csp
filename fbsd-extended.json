@@ -28,7 +28,8 @@
     "rss": ""
   },
   "my-pool-ids": {
-    "0": "5808e8716e8b968c3043fc9bdc21db652c916ce97ffaddfe891db16c"
+    "0": "pool1tqywsutw3wtgcvzrljdacgwmv5kfzm8f0ladml5frkckccd72gg",
+    "1": "5808e8716e8b968c3043fc9bdc21db652c916ce97ffaddfe891db16c"
   },
   "when-satured-then-recommend": {
     "0": ""
